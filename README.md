@@ -9,9 +9,13 @@ IMPORTANT: There is NO correct answer to this!  We are not looking for a particu
 I used the software packages pandas, numpy, plotly and matplotlib to analyze IPO market data from 2014-01-10 to 2020-09-30. The analysis provides a high-level overview of the following areas:
 
 * Key industries
+
 * Key geographies
+
 * Summary statistics and correlation of IPO's capital raised, post-money valuation and opening price per share
+
 * Volatility experienced over the period
+
 * Trend and noise experienced in IPO's capital raised, post-money valuation and opening price per share over the period
 
 # Market Findings
