@@ -1,9 +1,3 @@
-# Provided Instructions
-In the next sheet, we have provided some data surrounding all of the IPOs which PitchBook has tracked which were announced or closed between 1/1/2015 and 9/30/2020.
-
-Using this data set, as well any outside data (if desired), provide any insights you can glean about the recent activity in the IPO market.  Please include some summary statistics, charts, as well as some brief notes regarding points that you found interesting.  Compile your results within this workbook.  If using any formulas, or pivot tables, please note those within the workbook, or keep them active.
-
-IMPORTANT: There is NO correct answer to this!  We are not looking for a particular output, simply interested in what you come up with.  Take whatever angle you wish, as long as you feel you are accurately representing your findings.  Noting data discrepancies, or things you may feel unsure about is encouraged.  As always, ask any clarifying questions you have.
 
 # Objective
 I used the software packages pandas, numpy, plotly and matplotlib to analyze IPO market data from 2014-01-10 to 2020-09-30. The analysis provides a high-level overview of the following areas:
@@ -21,7 +15,7 @@ I used the software packages pandas, numpy, plotly and matplotlib to analyze IPO
 # Market Findings
 Overall, our data represented 6,739 thousand global companies that released an IPO over 2014-01-10 to 2020-09-30 (please view the *Loading CSV & Data Cleaning* section of the python notebook to review the data cleaning process). 
 
-* Our sample represents companies from 7 different verticals; Healthcare (30%), IT (22%) and B2B (18%) are the industry’s most IPO companies operated in over the period. The industry sectors who raised the most capital (mUSD) over the period were Financial Services, Consumer Products and Services and Energy. Indicating the acknowledgment from the investment community that these sectors are primed for long-term growth, facilitated by the adoption of digital transformation
+* Our sample represents companies from 7 different verticals; Healthcare (30%), IT (22%) and B2B (18%) are the industry’s most IPO companies operated in over the period. The industry sectors who raised the most capital (mUSD) over the period were Financial Services, Consumer Products and Services and Energy. Indicating the acknowledgment from the investment community that these sectors are primed for long-term growth, facilitated by the adoption of digital transformation and related technologies
 
 * Our sample represents companies from 68 countries; United States (39%), China (20%), UK (6%) had the largest share of IPO's over the period. Yet the United States (21th), China (20th), and UK (14th) do not hold the largest share of capital raised. Luxembourg (1st), Vietnam (2nd) and Austria (3rd) were the countries that raised the most capital (mUSD) over the period
 
